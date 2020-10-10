@@ -9,7 +9,7 @@ static const Block blocks[] = {
 		{"|",	   "mailbox",						180,	            12    },
 		{"|",	   "volume",						0,	            10    },
 		{"|",	   "clock",						60,	            1     },
-		{"|",	   "internet",						5,	            4     },
+		// {"|",	   "internet",						5,	            4     },
 		{"|",	   "dnd",						0,	            16    },
 		{"|",	   "help-icon",						0,	            15    },
 		{"|",	   "systray",						0,	            17    },
